@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AES-Keygen", "AES-Keygen\AES-Keygen.csproj", "{73BC0115-E200-4B79-8B57-8C29BE13F9C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73BC0115-E200-4B79-8B57-8C29BE13F9C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BC0115-E200-4B79-8B57-8C29BE13F9C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BC0115-E200-4B79-8B57-8C29BE13F9C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BC0115-E200-4B79-8B57-8C29BE13F9C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27A5B8A0-A6A5-4582-9E2F-8BFCA9F9D9DA}
+	EndGlobalSection
+EndGlobal
